@@ -1,6 +1,4 @@
-The problem was the nested code blocks breaking the outer one. Here's the whole file as plain text — copy everything between the START and END lines:
-
-    
+   
     # 🛡️ MyShield
     
     **A privacy & security hardening extension for Firefox** — blocks ads, malware domains, popups, tab hijacking, and dangerous downloads. Built for browsing the sketchy corners of the web safely.
